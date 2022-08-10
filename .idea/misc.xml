@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_business_news.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_detail_indo_news.xml" value="0.2837528604118993" />
+        <entry key="app/src/main/res/layout/activity_detail_uk.xml" value="0.22056159420289856" />
+        <entry key="app/src/main/res/layout/activity_detail_us.xml" value="0.22056159420289856" />
+        <entry key="app/src/main/res/layout/activity_detail_us_activity.xml" value="0.19814814814814816" />
+        <entry key="app/src/main/res/layout/activity_entertaiment_news.xml" value="0.21240942028985507" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_meninggal.xml" value="0.2328125" />
+        <entry key="app/src/main/res/layout/activity_news_indo.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_news_uk.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/activity_news_us.xml" value="0.2441025641025641" />
+        <entry key="app/src/main/res/layout/activity_positive.xml" value="0.1824074074074074" />
+        <entry key="app/src/main/res/layout/activity_provinsi_covid.xml" value="0.22056159420289856" />
+        <entry key="app/src/main/res/layout/activity_sembuh.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_web.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_recycler_news.xml" value="0.246875" />
+        <entry key="app/src/main/res/layout/item_recycler_news_business.xml" value="0.12006079027355623" />
+        <entry key="app/src/main/res/layout/item_recycler_news_indo.xml" value="0.12962962962962962" />
+        <entry key="app/src/main/res/layout/item_recycler_news_us.xml" value="0.2441025641025641" />
+        <entry key="app/src/main/res/layout/item_recycler_provinsi_covid.xml" value="0.22056159420289856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
